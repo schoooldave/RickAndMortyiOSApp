@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EAA3539229BDCDF6009D3C61 /* RMCharacterStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA3539129BDCDF6009D3C61 /* RMCharacterStatus.swift */; };
 		EAA8872529B62C7C00F95C59 /* RMService.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA8872429B62C7C00F95C59 /* RMService.swift */; };
 		EAA8872729B62CA600F95C59 /* RMRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA8872629B62CA600F95C59 /* RMRequest.swift */; };
 		EAA8872929B62DC800F95C59 /* RMEndpoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAA8872829B62DC800F95C59 /* RMEndpoint.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EAA3539129BDCDF6009D3C61 /* RMCharacterStatus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMCharacterStatus.swift; sourceTree = "<group>"; };
 		EAA8872429B62C7C00F95C59 /* RMService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMService.swift; sourceTree = "<group>"; };
 		EAA8872629B62CA600F95C59 /* RMRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMRequest.swift; sourceTree = "<group>"; };
 		EAA8872829B62DC800F95C59 /* RMEndpoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RMEndpoint.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				EAA8872D29B636BA00F95C59 /* RMSingleLocation.swift */,
 				EAE09B0D29AB944D00F99B93 /* RMEpisode.swift */,
 				EAA8872F29B638AF00F95C59 /* RMCharacterGender.swift */,
+				EAA3539129BDCDF6009D3C61 /* RMCharacterStatus.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				EAE09AEF29AB879100F99B93 /* AppDelegate.swift in Sources */,
 				EAE09AF129AB879100F99B93 /* SceneDelegate.swift in Sources */,
 				EABD2D0329AB985900984942 /* RMCharacterViewController.swift in Sources */,
+				EAA3539229BDCDF6009D3C61 /* RMCharacterStatus.swift in Sources */,
 				EABD2D0929AB98AD00984942 /* RMLocationViewController.swift in Sources */,
 				EAA8872529B62C7C00F95C59 /* RMService.swift in Sources */,
 				EAE09B0A29AB942000F99B93 /* RMLocation.swift in Sources */,

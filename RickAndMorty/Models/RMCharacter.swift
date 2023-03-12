@@ -24,8 +24,3 @@ struct RMCharacter: Codable {
 }
 
 
-enum RMCharacterStatus: String, Codable {
-    case  alive = "ALive"
-    case dead = "Dead"
-    case unknown = "unknown"
-}
